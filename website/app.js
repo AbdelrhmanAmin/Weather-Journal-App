@@ -3,7 +3,7 @@
 // I did look up some code from google to grasp the idea of how this project should look like but made it myself.
 
 const baseURL = "http://api.openweathermap.org/data/2.5/weather?zip=";
-const key = "8eb99ea90cf6ab3f333bd295b2f823fa";
+const key = "8eb99ea90cf6ab3f333bd295b2f823fa&units=imperial";
 const btn = document.querySelector("#generate");
 // Create a new date instance dynamically with JS
 
